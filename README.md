@@ -5,7 +5,7 @@
 
 # Made by __theflame - discord
 
-Guardbot is an advanced bot for protecting your discord server. It's designed for roblox RP servers. Contains anti-raid, update command's and a lot more!
+Guardbot is an advanced bot for protecting your discord server. It's designed for roblox RP servers. Contains anti-raid, update command's, ticket's and a lot more!
 
 ---
 
