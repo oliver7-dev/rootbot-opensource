@@ -5,7 +5,7 @@
 
 # Made by __theflame - discord
 
-A short, catchy one-liner describing what this project does. Keep it punchy and clear so visitors instantly understand the value of your repository.
+Guardbot is an advanced bot for protecting your discord server. It's designed for roblox RP servers. Contains anti-raid, update command's and a lot more!
 
 ---
 
