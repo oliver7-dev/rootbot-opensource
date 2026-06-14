@@ -1,4 +1,4 @@
-# 🚀 [Project Title]
+# 🚀 guardbot
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/yourusername/your-repo/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-ui)](http://makeapullrequest.com)
