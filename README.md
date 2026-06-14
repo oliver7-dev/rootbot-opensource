@@ -65,31 +65,35 @@ Open your terminal or command prompt and run the following commands to clone the
 ```bash
 git clone [https://github.com/yourusername/your-repo.git](https://github.com/yourusername/your-repo.git)
 cd your-repo
+```
 
 Step 2: Install Dependencies
 Install all required production and development packages:
 
-Bash
+```Bash
 # Using npm
 npm install
+```
 
 # Alternatively, if you prefer yarn
-yarn install
-⚠️ Note: If you encounter dependency resolution errors, try running npm install --legacy-peer-deps.
+```yarn install```
+⚠️ Note: If you encounter dependency resolution errors, try running ```npm install --legacy-peer-deps```.
 
 Step 3: Configure Environment Variables
 The application relies on environment variables to connect to databases and external services.
 
 Duplicate the template file:
 
-Bash
+```Bash
 cp .env.example .env
-Open the newly created .env file in your preferred text editor and fill out the required credentials:
+```
+```Open the newly created .env file in your preferred text editor and fill out the required credentials:
 
 Fragment kodu
 # Server Configuration
 PORT=5000
 NODE_ENV=development
+```
 
 # Database Settings
 DATABASE_URL=mongodb://localhost:27017/your_db_name
