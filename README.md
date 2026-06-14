@@ -41,6 +41,9 @@ Make sure you have the following installed on your machine:
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/your-repo.git](https://github.com/yourusername/your-repo.git)
+1. Create an VCS project. Name it what ever you want.
+2. Make sure you have installed Node.js and HTML.
+3. This also require .env file using mongoDB
+4. Next copy the repository.
+5. .env file put in main
+ 
