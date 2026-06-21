@@ -187,7 +187,7 @@ Open a Pull Request
 📝 License
 Distributed under the MIT License. See LICENSE for more information.
 
-👤 Contact
-Your Name - @your_twitter - email@example.com
+👤 Need help setting up bot? Contact me!
+Discord - @__theflame - kontakt.endstorm@gmail.com
 
 Project Link: https://github.com/yourusername/your-repo
